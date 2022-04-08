@@ -15,5 +15,12 @@ le nom de implèmentation que nous voulons utiliser
 
 ![c8](https://user-images.githubusercontent.com/82270887/162442254-caa09c2f-ae3a-4c0b-95f9-a3887d298f81.png)
 
+#######################
 
+Injection des dépendance utilisant spring Annotation :
+
+![c10](https://user-images.githubusercontent.com/82270887/162445228-c1366ae1-1e35-449a-8785-76e48c6422c9.png)
+![c11](https://user-images.githubusercontent.com/82270887/162445581-9ec75a2c-682c-4e41-86d5-d4142128cceb.png)
+
+######################
 
